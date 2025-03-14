@@ -3,8 +3,11 @@
 ## before start
 
 clone repository
+
 install dependancies: 'npm i'
+
 rename "example.env.proxy" to ".env.proxy"
+
 rename "example.env" to ".env"
 
 ## to start dev server
